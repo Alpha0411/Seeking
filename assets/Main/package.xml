@@ -13,8 +13,8 @@
     <image id="uz3812" name="背景的树.png" path="/"/>
     <image id="uz3813" name="外框.png" path="/"/>
     <image id="uz3814" name="背景.png" path="/"/>
-    <component id="uz3815" name="TalkButton.xml" path="/"/>
     <component id="uz381a" name="BagButton.xml" path="/"/>
+    <component id="r38k1b" name="TalkButton.xml" path="/"/>
   </resources>
   <publish name="Package1"/>
 </packageDescription>
