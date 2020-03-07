@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="84sj5y7w" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="uz380" name="BagView.xml" path="/" exported="true"/>
+    <image id="uz382" name="钥匙.png" path="/"/>
+    <image id="uz383" name="羽毛笔.png" path="/"/>
+    <image id="uz385" name="背包外框.png" path="/"/>
+    <image id="uz386" name="笔记本.png" path="/"/>
+    <image id="uz387" name="道具栏.png" path="/"/>
+    <image id="uz38d" name="家庭照片.png" path="/"/>
+    <image id="uz38e" name="妻子的信.png" path="/"/>
+    <image id="uz38g" name="ui信息框（羽毛笔）.png" path="/"/>
+    <image id="uz38h" name="ui信息框（笔记本）.png" path="/"/>
+    <image id="uz38i" name="ui信息框（家庭照片）.png" path="/"/>
+    <image id="uz38j" name="ui信息框（妻子的信）.png" path="/"/>
+    <image id="uz38k" name="ui信息框（钥匙）.png" path="/"/>
+    <component id="uz38o" name="BookButton.xml" path="/"/>
+    <image id="uz38p" name="背景.png" path="/"/>
+    <image id="uz38q" name="背景的树.png" path="/"/>
+    <image id="uz38r" name="背景的树（遮挡）.png" path="/"/>
+    <image id="uz38s" name="外框.png" path="/"/>
+    <component id="uz38z" name="CenterBag.xml" path="/"/>
+    <component id="uz3810" name="PhotoButton.xml" path="/"/>
+    <component id="uz3811" name="LetterButton.xml" path="/"/>
+    <component id="uz3812" name="PenButton.xml" path="/"/>
+    <component id="uz3813" name="KeyButton.xml" path="/"/>
+    <component id="uz3814" name="ItemButton.xml" path="/"/>
+    <image id="uz3818" name="背包第二页.png" path="/"/>
+    <image id="uz3819" name="背包第三页.png" path="/"/>
+    <image id="uz381a" name="背包第一页.png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

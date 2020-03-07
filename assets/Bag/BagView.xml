@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <image id="n0_uz38" name="n0" src="uz38p" fileName="背景.png" xy="0,0"/>
+    <image id="n1_uz38" name="n1" src="uz38q" fileName="背景的树.png" xy="0,0"/>
+    <component id="n14_uz38" name="n14" src="uz38z" fileName="CenterBag.xml" xy="1189,565" group="n16_uz38"/>
+    <component id="n15_uz38" name="n15" src="uz3814" fileName="ItemButton.xml" xy="1302,626" group="n16_uz38"/>
+    <component id="n4_uz38" name="n4" src="uz38o" fileName="BookButton.xml" xy="1655,626" group="n16_uz38"/>
+    <component id="n10_uz38" name="n10" src="uz3810" fileName="PhotoButton.xml" xy="1537,626" size="113,114" group="n16_uz38"/>
+    <component id="n11_uz38" name="n11" src="uz3811" fileName="LetterButton.xml" xy="1424,626" group="n16_uz38"/>
+    <component id="n12_uz38" name="n12" src="uz3812" fileName="PenButton.xml" xy="1298,745" group="n16_uz38"/>
+    <component id="n13_uz38" name="n13" src="uz3813" fileName="KeyButton.xml" xy="1301,626" size="121,114" group="n16_uz38"/>
+    <group id="n16_uz38" name="BagGroup" xy="1189,565" size="678,353" advanced="true" collapsed="true">
+      <relation target="" sidePair=""/>
+    </group>
+    <image id="n2_uz38" name="n2" src="uz38r" fileName="背景的树（遮挡）.png" xy="0,0"/>
+    <image id="n33_uz38" name="n33" src="uz3818" fileName="背包第二页.png" xy="1496,871"/>
+    <image id="n34_uz38" name="n34" src="uz3819" fileName="背包第三页.png" xy="1496,871"/>
+    <image id="n35_uz38" name="n35" src="uz381a" fileName="背包第一页.png" xy="1496,871"/>
+    <image id="n17_uz38" name="n17" src="uz38h" fileName="ui信息框（笔记本）.png" xy="0,0" group="n22_uz38"/>
+    <image id="n18_uz38" name="n18" src="uz38i" fileName="ui信息框（家庭照片）.png" xy="0,0" group="n22_uz38"/>
+    <image id="n19_uz38" name="n19" src="uz38j" fileName="ui信息框（妻子的信）.png" xy="0,0" group="n22_uz38"/>
+    <image id="n20_uz38" name="n20" src="uz38g" fileName="ui信息框（羽毛笔）.png" xy="0,0" group="n22_uz38"/>
+    <image id="n21_uz38" name="n21" src="uz38k" fileName="ui信息框（钥匙）.png" xy="0,0" group="n22_uz38"/>
+    <group id="n22_uz38" name="ItemNotesGroup" xy="0,0" size="1920,1080" hideByEditor="true" collapsed="true"/>
+    <image id="n3_uz38" name="n3" src="uz38s" fileName="外框.png" xy="0,0"/>
+  </displayList>
+</component>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="bjbsp5bs" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="uz38w" name="MainView.xml" path="/" exported="true"/>
+    <image id="uz38y" name="鼠标（待机）.png" path="/"/>
+    <image id="uz38z" name="鼠标（点击）.png" path="/"/>
+    <image id="uz384" name="背包ui.png" path="/"/>
+    <image id="uz38n" name="背包（提示打开）.png" path="/"/>
+    <image id="uz382" name="信封（打开）.png" path="/"/>
+    <image id="uz383" name="信封（关闭）.png" path="/"/>
+    <image id="uz387" name="信封（提示打开）.png" path="/"/>
+    <image id="uz3811" name="背景的树（遮挡）.png" path="/"/>
+    <image id="uz3812" name="背景的树.png" path="/"/>
+    <image id="uz3813" name="外框.png" path="/"/>
+    <image id="uz3814" name="背景.png" path="/"/>
+    <component id="uz3815" name="TalkButton.xml" path="/"/>
+    <component id="uz381a" name="BagButton.xml" path="/"/>
+  </resources>
+  <publish name="Package1"/>
+</packageDescription>

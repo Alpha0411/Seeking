@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <image id="n0_uz38" name="n0" src="uz38b" fileName="背景.png" xy="0,0"/>
+    <image id="n1_uz38" name="n1" src="uz38c" fileName="背景的树.png" xy="0,0"/>
+    <image id="n2_uz38" name="n2" src="uz38d" fileName="背景的树（遮挡）.png" xy="0,0"/>
+    <image id="n6_uz38" name="n6" src="uz384" fileName="对话框（猫）.png" xy="0,0"/>
+    <image id="n4_uz38" name="n4" src="uz385" fileName="对话框（兔子）.png" xy="0,0"/>
+    <image id="n3_uz38" name="n3" src="uz38e" fileName="外框.png" xy="0,0"/>
+  </displayList>
+</component>

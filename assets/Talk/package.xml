@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8tteiii8" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="uz384" name="对话框（猫）.png" path="/"/>
+    <image id="uz385" name="对话框（兔子）.png" path="/"/>
+    <image id="uz38b" name="背景.png" path="/"/>
+    <image id="uz38c" name="背景的树.png" path="/"/>
+    <image id="uz38d" name="背景的树（遮挡）.png" path="/"/>
+    <image id="uz38e" name="外框.png" path="/"/>
+    <component id="uz38f" name="TalkView.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>
