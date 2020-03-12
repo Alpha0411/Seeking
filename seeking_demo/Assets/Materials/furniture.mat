@@ -8,7 +8,7 @@ Material:
   m_PrefabInternal: {fileID: 0}
   m_Name: furniture
   m_Shader: {fileID: 4800000, guid: 75f725610cbe2d848bc27f279188a18f, type: 3}
-  m_ShaderKeywords: 
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
@@ -87,7 +87,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
     - _FirstShadowMultColor: {r: 0.71, g: 0.67, b: 0.81, a: 1}
     - _LightSpecColor: {r: 1, g: 1, b: 1, a: 1}
     - _OutlineColor: {r: 0.5254902, g: 0.31764707, b: 0.23137257, a: 1}
